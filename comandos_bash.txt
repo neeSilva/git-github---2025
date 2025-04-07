@@ -2,3 +2,5 @@ ls
 cd
 pwd
 ls -a
+cat
+rm
