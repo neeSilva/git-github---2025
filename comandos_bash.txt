@@ -4,4 +4,6 @@ pwd - mostra o diretório de trabalho
 ls -a - lista arquivos ocultos
 cat - exibe condeudo do arquivo
 rm - remove arquivo ou diretorio
-rm- rf - remove de fomra recursiva e força todos diretorios
+rm- rf - remove de fomra recursiva e força todos diretórios
+
+diferença
