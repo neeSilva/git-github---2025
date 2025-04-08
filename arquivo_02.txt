@@ -1,2 +1,2 @@
 um arquivo bobo pra branch 02
-mais uma linha
+mais uma linha e adicionar os comandos para atualizar no log
