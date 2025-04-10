@@ -1,6 +1,3 @@
-um arquivo bobo pra branch 02
-<<<<<<< HEAD
-mais uma linha
-=======
-mais uma linha e adicionar os comandos para atualizar no log
->>>>>>> secundaria02
+esse é um arquivo tosco
+
+mais uma linha nesse arquivo

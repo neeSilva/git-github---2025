@@ -1,1 +1,13 @@
-este arquivo possui comandos iniciais para git
+Este arquivo contém informações adicionais para git
+
+- Primeiro comando
+- Segundo comando
+
+# Comandos mais genéricos
+- comandos estranhos
+
+# Mais comandos!!!
+
+iudhascybag i
+avjosadhb iadfg
+asgjlnadrsjklgb 
